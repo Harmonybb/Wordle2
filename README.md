@@ -39,7 +39,6 @@ GIF created with Kap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
