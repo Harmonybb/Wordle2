@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="mini_wordle">Mini Wordle</string>
+    <string name="enter_word">Enter 4-letter word</string>
+    <string name="submit">Submit</string>
+    <string name="guess1">Guess 1:</string>
+    <string name="guess2">Guess 2:</string>
+    <string name="guess3">Guess 3:</string>
+</resources>
